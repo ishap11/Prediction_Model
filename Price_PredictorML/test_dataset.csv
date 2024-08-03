@@ -1,0 +1,369 @@
+Product,Product_Brand,Item_Category,Subcategory_1,Subcategory_2,Item_Rating,Date,Selling_Price
+P-3770,B-968,toys school supplies,school supplies,lunch boxes,2.7,28/3/2018,146.0
+P-4820,B-3078,clothing,women s clothing,western wear,3.1,4/1/2017,2272.0
+P-6340,B-1656,home decor festive needs,festive decor,rakhi,2.3,25/6/2014,531.0
+P-4706,B-1252,jewellery,necklaces chains,necklaces,3.3,1/12/2018,415.0
+P-7401,B-3078,toys school supplies,school supplies,geometry pencil boxes,3.8,1/12/2014,294.0
+P-8015,B-3078,beauty and personal care,combos and kits,oxyglow combos and kits,3.4,12/12/2012,658.0
+P-8952,B-2307,jewellery,rings,unknown,4.1,1/1/2020,20961.0
+P-10214,B-3078,clothing,women s clothing,western wear,3.2,6/1/2016,702.0
+P-10045,B-2643,clothing,women s clothing,lingerie sleep swimwear,3.7,2/4/2020,1092.0
+P-5262,B-2372,clothing,women s clothing,western wear,1.6,30/12/2016,456.0
+P-8954,B-2307,jewellery,rings,unknown,4.7,1/1/2014,26267.0
+P-11211,B-2959,baby care,infant wear,baby girls clothes,3.6,2/3/2017,399.0
+P-1045,B-143,clothing,women s clothing,lingerie sleep swimwear,2.8,2/4/2019,338.0
+P-6180,B-3078,footwear,women s footwear,wedges,3.5,29/12/2016,440.0
+P-9995,B-2619,kitchen dining,cookware,pots pans,3.7,1/12/2016,530.0
+P-8646,B-3078,kitchen dining,coffee mugs,printland coffee mugs,1.4,1/12/2018,289.0
+P-8434,B-1936,clothing,women s clothing,lingerie sleep swimwear,4.2,7/1/2013,339.0
+P-10986,B-2918,home decor festive needs,showpieces,the crystal jewel showpieces,3.4,1/12/2014,640.0
+P-2261,B-2049,clothing,women s clothing,lingerie sleep swimwear,4.6,7/1/2019,597.0
+P-3803,B-3078,watches,wrist watches,flippd wrist watches,3.6,7/1/2014,748.0
+P-3203,B-3078,watches,wrist watches,elantra wrist watches,4.5,4/12/2018,941.0
+P-1897,B-405,jewellery,rings,unknown,3.8,1/1/2019,25082.0
+P-9200,B-2370,computers,laptop accessories,batteries,4.3,7/1/2019,1299.0
+P-7036,B-1859,mobiles accessories,tablet accessories,cases covers,1.6,1/1/2015,1293.0
+P-11880,B-3078,clothing,men s clothing,t shirts,3.2,7/1/2020,495.0
+P-6429,B-1670,clothing,kids clothing,infants wear,3.0,12/6/2017,4311.0
+P-2714,B-3078,clothing,women s clothing,western wear,4.9,1/1/2015,492.0
+P-9887,B-3078,clothing,women s clothing,ethnic wear,2.7,29/12/2019,398.0
+P-12465,B-3322,jewellery,bangles bracelets armlets,bangles,4.2,31/12/2018,887.0
+P-2556,B-639,home decor festive needs,wall decor clocks,wall decals stickers,1.0,31/12/2016,299.0
+P-1222,B-196,computers,laptop accessories,usb gadgets,4.8,20/6/2014,173.0
+P-6321,B-1647,laser x checkered men s boxer pack of 4,unknown,unknown,3.7,5/5/2018,640.0
+P-3810,B-1690,clothing,women s clothing,lingerie sleep swimwear,4.7,7/1/2018,199.0
+P-7056,B-1872,tools hardware,tools,gardening tools,1.1,7/1/2014,546.0
+P-10403,B-2741,automotive,accessories spare parts,car bike lighting,2.3,3/3/2015,499.0
+P-3123,B-805,home furnishing,bed linen,blankets quilts dohars,5.0,12/12/2019,998.0
+P-5496,B-3078,beauty and personal care,fragrances,deodorants,1.5,1/12/2013,321.0
+P-6025,B-3078,footwear,men s footwear,casual shoes,1.8,29/12/2019,1592.0
+P-47,B-1,automotive,accessories spare parts,car interior exterior,2.8,1/12/2016,1746.0
+P-10469,B-2741,automotive,accessories spare parts,spares performance parts,2.5,31/12/2015,869.0
+P-7531,B-3078,clothing,men s clothing,t shirts,1.1,13/12/2012,489.0
+P-10548,B-2761,kitchen dining,bar glassware,bar glasses,2.1,10/6/2019,1654.0
+P-4807,B-3078,pens stationery,office supplies,desk organizers,2.3,1/1/2017,199.0
+P-6141,B-2373,clothing,women s clothing,western wear,4.4,30/12/2013,446.0
+P-8397,B-3078,footwear,women s footwear,casual shoes,1.9,4/12/2019,1898.0
+P-873,B-133,automotive,accessories spare parts,car interior exterior,3.7,1/12/2013,920.0
+P-1379,B-238,footwear,kids infant footwear,for boys,4.0,2/4/2020,248.0
+P-11107,B-334,clothing,women s clothing,lingerie sleep swimwear,3.7,7/1/2016,259.0
+P-6706,B-3078,clothing,women s clothing,western wear,5.0,1/12/2015,792.0
+P-7889,B-2679,clothing,men s clothing,shirts,4.3,29/12/2019,774.0
+P-8135,B-3078,beauty and personal care,fragrances,deodorants,1.8,1/12/2014,314.0
+P-8798,B-3078,pens stationery,college supplies,geometry pencil boxes,2.1,1/12/2013,297.0
+P-4456,B-1176,computers,laptop accessories,laptop adapters,3.8,10/6/2018,1793.0
+P-11515,B-3076,clothing,kids clothing,infants wear,1.5,13/4/2013,416.0
+P-3841,B-3078,beauty and personal care,fragrances,deodorants,1.3,1/12/2018,396.0
+P-11438,B-3049,automotive,accessories spare parts,spares performance parts,4.8,31/12/2019,493.0
+P-1325,B-219,home furnishing,curtains accessories,curtains,2.3,3/3/2018,699.0
+P-10732,B-2826,home decor festive needs,showpieces,ethnic,1.7,1/12/2019,4041.0
+P-6434,B-1674,jewellery,bangles bracelets armlets,bracelets,1.1,20/12/2019,599.0
+P-4790,B-1264,computers,laptop accessories,batteries,2.9,7/1/2018,3688.0
+P-6654,B-1749,home furnishing,cushions pillows covers,cushion covers,4.2,4/6/2014,311.0
+P-3162,B-815,jewellery,earrings,unknown,2.4,12/12/2016,592.0
+P-1439,B-255,tools hardware,tools,gardening tools,2.4,7/1/2020,346.0
+P-6046,B-3078,clothing,women s clothing,western wear,2.1,1/12/2015,889.0
+P-3626,B-938,jewellery,necklaces chains,necklaces,1.5,1/12/2016,495.0
+P-12453,B-3315,jewellery,necklaces chains,necklaces,3.5,1/12/2012,252.0
+P-2169,B-3078,footwear,women s footwear,casual shoes,5.0,4/12/2015,2289.0
+P-5911,B-1556,jewellery,rings,unknown,3.9,6/1/2014,2170.0
+P-7999,B-2372,clothing,women s clothing,western wear,1.6,30/12/2013,366.0
+P-8181,B-2161,kitchen dining,cookware,pots pans,5.0,1/12/2014,389.0
+P-3422,B-884,home decor festive needs,table decor handicrafts,showpieces,3.2,1/1/2014,907.0
+P-2293,B-680,clothing,women s clothing,lingerie sleep swimwear,2.2,7/1/2016,189.0
+P-1498,B-276,jewellery,accessories,brooches,1.4,28/2/2019,897.0
+P-3168,B-817,home furnishing,cushions pillows covers,cushion covers,2.3,12/12/2012,400.0
+P-6193,B-3078,clothing,women s clothing,western wear,3.6,1/12/2017,903.0
+P-741,B-133,automotive,accessories spare parts,car interior exterior,3.4,1/12/2012,1595.0
+P-5305,B-1417,jewellery,necklaces chains,necklaces,4.2,1/12/2017,348.0
+P-6565,B-1726,beauty and personal care,hair care,hair colors,4.1,22/5/2020,3292.0
+P-8982,B-2307,jewellery,rings,unknown,3.0,1/1/2017,37947.0
+P-12475,B-3078,footwear,women s footwear,casual shoes,1.7,1/12/2013,490.0
+P-5631,B-1501,kalpaveda copper bowl gold pack of 1,unknown,unknown,3.6,10/5/2014,2395.0
+P-7756,B-3078,clothing,men s clothing,t shirts,4.7,13/12/2012,277.0
+P-3749,B-3078,watches,wrist watches,fighter wrist watches,1.4,12/12/2012,217.0
+P-3778,B-973,tools hardware,tools,gardening tools,4.2,7/1/2016,438.0
+P-5861,B-2372,clothing,men s clothing,shirts,5.0,6/12/2013,490.0
+P-4830,B-1271,clothing,kids clothing,girls wear,3.2,17/6/2019,1124.0
+P-10003,B-3078,clothing,women s clothing,western wear,2.7,3/12/2012,554.0
+P-2876,B-3078,pens stationery,office supplies,desk organizers,3.5,1/1/2013,244.0
+P-12059,B-3219,computers,network components,routers,3.0,1/12/2013,12311.0
+P-9535,B-1805,clothing,women s clothing,lingerie sleep swimwear,2.7,7/1/2013,269.0
+P-5358,B-1430,jewellery,rings,unknown,3.8,1/1/2015,22835.0
+P-5842,B-2679,clothing,women s clothing,western wear,3.1,30/12/2015,494.0
+P-9755,B-2541,home decor festive needs,table decor handicrafts,showpieces,4.7,31/12/2016,270.0
+P-5271,B-1407,clothing,kids clothing,girls wear,2.1,11/3/2019,596.0
+P-3659,B-3078,watches,wrist watches,fastrack wrist watches,4.8,7/1/2020,750.0
+P-1375,B-240,jewellery,rings,unknown,2.7,6/1/2016,965.0
+P-664,B-133,automotive,accessories spare parts,car interior exterior,2.0,1/12/2012,1591.0
+P-1649,B-338,jewellery,bangles bracelets armlets,bangles,2.7,30/12/2014,165.0
+P-2917,B-748,toys school supplies,action figures,disney action figures,2.0,28/3/2017,298.0
+P-6200,B-2281,clothing,women s clothing,lingerie sleep swimwear,5.0,7/1/2015,247.0
+P-9804,B-3078,bags wallets belts,bags,pouches and potlis,4.2,3/12/2015,2186.0
+P-7026,B-3078,footwear,women s footwear,wedges,4.6,29/12/2013,1012.0
+P-7583,B-2026,jewellery,necklaces chains,necklaces,4.0,31/12/2012,17814.0
+P-8436,B-2355,clothing,women s clothing,lingerie sleep swimwear,4.4,7/1/2019,325.0
+P-5152,B-3231,clothing,women s clothing,lingerie sleep swimwear,4.8,7/1/2018,291.0
+P-7182,B-1920,sports fitness,outdoor adventure,camping hiking,4.0,28/2/2020,2096.0
+P-2846,B-736,mobiles accessories,tablet accessories,cases covers,4.0,1/1/2016,1350.0
+P-3292,B-3078,beauty and personal care,fragrances,deodorants,4.3,1/12/2019,341.0
+P-2886,B-742,jewellery,bangles bracelets armlets,bangles,4.2,10/5/2017,2335.0
+P-9950,B-2605,home decor festive needs,showpieces,shoppingtara showpieces,1.8,1/12/2014,546.0
+P-5655,B-1512,mobiles accessories,tablet accessories,cases covers,3.1,1/1/2020,596.0
+P-4381,B-2201,clothing,women s clothing,lingerie sleep swimwear,2.5,7/1/2015,441.0
+P-4813,B-1269,clothing,men s clothing,inner wear sleep wear,3.7,16/6/2014,599.0
+P-3040,B-786,footwear,women s footwear,ballerinas,4.2,5/3/2018,1259.0
+P-1997,B-430,clothing,women s clothing,fusion wear,1.2,1/6/2020,745.0
+P-612,B-133,automotive,accessories spare parts,car interior exterior,3.9,1/12/2013,1348.0
+P-5710,B-1517,jewellery,rings,unknown,2.8,1/1/2015,28846.0
+P-6669,B-1754,jewellery,bangles bracelets armlets,bangles,1.9,30/12/2018,287.0
+P-6551,B-3078,clothing,women s clothing,western wear,1.2,1/12/2016,798.0
+P-11833,B-3182,vishudh printed women s anarkali kurta,unknown,unknown,2.3,5/4/2017,1043.0
+P-1670,B-3078,clothing,kids clothing,girls wear,2.4,7/1/2020,475.0
+P-11542,B-3082,jewellery,necklaces chains,necklaces,4.8,1/12/2014,421.0
+P-8366,B-2198,pens stationery,pens,roller ball pens,3.3,12/12/2012,717.0
+P-8997,B-2307,jewellery,rings,unknown,1.6,1/1/2016,25224.0
+P-12449,B-3314,clothing,women s clothing,western wear,4.0,24/4/2017,549.0
+P-10173,B-2698,kitchen dining,tableware cutlery,tableware,3.6,1/1/2020,797.0
+P-2808,B-725,kitchen dining,kitchen tools,kitchen implements,1.9,1/12/2018,746.0
+P-857,B-133,automotive,accessories spare parts,car interior exterior,1.7,1/12/2015,911.0
+P-455,B-108,clothing,women s clothing,formal wear,4.9,24/2/2015,791.0
+P-1319,B-219,home furnishing,curtains accessories,curtains,2.7,3/3/2013,491.0
+P-9275,B-2394,jewellery,bangles bracelets armlets,bracelets,5.0,20/12/2018,649.0
+P-5149,B-1366,home decor festive needs,candles fragrances,home fragrances,3.0,15/6/2016,389.0
+P-6573,B-1729,toys school supplies,toy guns weapons,lotus toy guns weapons,3.9,9/6/2017,276.0
+P-12371,B-3292,clothing,kids clothing,girls wear,1.9,26/5/2017,493.0
+P-10685,B-2806,home decor festive needs,table decor handicrafts,decorative platters,2.8,4/1/2020,394.0
+P-7009,B-1851,clothing,women s clothing,western wear,2.9,3/3/2017,297.0
+P-2904,B-747,toys school supplies,action figures,discovery toys action figures,4.5,3/3/2020,9716.0
+P-3105,B-798,clothing,kids clothing,boys wear,3.4,10/5/2019,832.0
+P-9799,B-2555,clothing,men s clothing,shirts,4.5,21/3/2016,997.0
+P-10255,B-3078,watches,wrist watches,sonata wrist watches,4.0,7/1/2013,791.0
+P-7627,B-3078,watches,wrist watches,noise wrist watches,2.2,7/1/2017,992.0
+P-7701,B-3078,beauty and personal care,fragrances,deodorants,1.0,1/12/2016,148.0
+P-6539,B-1721,clothing,kids clothing,girls wear,1.7,2/4/2017,1993.0
+P-7798,B-3078,clothing,men s clothing,t shirts,4.1,13/12/2017,693.0
+P-559,B-133,automotive,accessories spare parts,car interior exterior,2.1,1/12/2012,1595.0
+P-3584,B-922,baby care,baby bedding,baby mosquito nets,2.7,12/12/2019,954.0
+P-1446,B-2372,clothing,women s clothing,western wear,2.7,30/12/2014,371.0
+P-10776,B-2847,home furnishing,living,sofa covers,1.5,26/5/2016,689.0
+P-11425,B-3041,jewellery,necklaces chains,necklaces,5.0,1/12/2016,219.0
+P-5540,B-378,clothing,women s clothing,lingerie sleep swimwear,2.6,7/1/2020,215.0
+P-8225,B-2175,clothing,women s clothing,winter seasonal wear,4.2,10/5/2019,1494.0
+P-11794,B-3171,footwear,men s footwear,casual shoes,2.0,7/3/2016,239.0
+P-274,B-78,jewellery,jewellery sets,unknown,2.7,31/12/2016,299.0
+P-901,B-133,automotive,accessories spare parts,car interior exterior,1.9,1/12/2016,910.0
+P-12196,B-3251,jewellery,necklaces chains,necklaces,1.8,1/12/2013,437.0
+P-8219,B-2175,clothing,women s clothing,western wear,1.5,10/5/2018,897.0
+P-4660,B-1237,mobiles accessories,tablet accessories,cases covers,1.6,1/1/2020,1243.0
+P-738,B-133,automotive,accessories spare parts,car interior exterior,4.0,1/12/2014,1597.0
+P-5788,B-3078,clothing,women s clothing,western wear,1.0,1/12/2014,690.0
+P-4044,B-3078,footwear,men s footwear,casual shoes,4.3,29/12/2018,1590.0
+P-4513,B-3078,clothing,women s clothing,western wear,5.0,7/1/2020,391.0
+P-8671,B-3078,kitchen dining,coffee mugs,prithish coffee mugs,1.6,1/12/2017,224.0
+P-8476,B-2233,clothing,women s clothing,maternity wear,4.7,13/6/2019,664.0
+P-7633,B-2041,clothing,kids clothing,girls wear,2.3,11/3/2017,1116.0
+P-249,B-72,home decor festive needs,showpieces,adaa showpieces,3.4,4/1/2018,2190.0
+P-7590,B-3078,clothing,women s clothing,western wear,4.5,1/1/2020,471.0
+P-7982,B-3078,clothing,men s clothing,t shirts,4.1,13/12/2014,490.0
+P-2757,B-3078,beauty and personal care,fragrances,deodorants,2.6,1/12/2018,369.0
+P-10028,B-3078,clothing,men s clothing,cargos shorts 3 4ths,5.0,4/1/2018,1166.0
+P-10693,B-2807,jewellery,bangles bracelets armlets,bangles,2.6,30/12/2019,428.0
+P-6639,B-1741,kitchen dining,dinnerware crockery,cups saucers,1.5,14/6/2017,817.0
+P-12028,B-3211,home decor festive needs,wall decor clocks,wall decals stickers,4.2,17/5/2014,241.0
+P-11949,B-3197,jewellery,jewellery sets,unknown,2.7,4/1/2019,642.0
+P-4340,B-3078,beauty and personal care,makeup,vanity boxes,3.0,4/1/2014,783.0
+P-3383,B-879,jewellery,necklaces chains,necklaces,2.3,1/12/2018,243.0
+P-3401,B-879,jewellery,necklaces chains,necklaces,3.9,1/12/2017,246.0
+P-10401,B-2741,automotive,accessories spare parts,bike essentials,3.6,18/3/2019,422.0
+P-6389,B-2679,clothing,men s clothing,shirts,2.0,6/12/2018,459.0
+P-3731,B-954,footwear,women s footwear,ballerinas,3.7,17/6/2015,495.0
+P-6497,B-1703,computers,network components,routers,4.0,1/12/2012,8993.0
+P-6157,B-3078,footwear,women s footwear,casual shoes,4.5,1/12/2018,793.0
+P-7927,B-2114,mobiles accessories,mobile accessories,earphone cable organizers,4.6,2/4/2015,493.0
+P-3044,B-786,jewellery,necklaces chains,necklaces,3.7,1/12/2014,310.0
+P-10421,B-2741,automotive,accessories spare parts,car interior exterior,4.7,21/4/2020,353.0
+P-7179,B-3078,clothing,women s clothing,western wear,2.2,1/12/2018,952.0
+P-7188,B-1924,jewellery,bangles bracelets armlets,bracelets,4.3,4/1/2020,455.0
+P-6455,B-3078,clothing,men s clothing,cargos shorts 3 4ths,3.6,4/1/2013,1070.0
+P-5082,B-1345,computers,laptop accessories,usb gadgets,2.4,29/12/2014,85.0
+P-2907,B-3078,toys school supplies,school supplies,geometry pencil boxes,1.9,1/12/2014,352.0
+P-2811,B-727,clothing,men s clothing,cargos shorts 3 4ths,2.3,27/5/2016,298.0
+P-2457,B-2680,clothing,women s clothing,western wear,4.4,30/12/2014,496.0
+P-2354,B-3078,toys school supplies,school supplies,geometry pencil boxes,1.7,1/12/2019,304.0
+P-7688,B-3078,clothing,men s clothing,t shirts,3.4,13/12/2015,894.0
+P-7528,B-3078,beauty and personal care,fragrances,deodorants,1.4,1/12/2014,390.0
+P-3649,B-3078,watches,wrist watches,fastrack wrist watches,5.0,7/1/2019,887.0
+P-1903,B-405,jewellery,rings,unknown,2.1,7/1/2013,17105.0
+P-8183,B-2165,kitchen dining,kitchen tools,kitchen implements,3.2,1/12/2014,69.0
+P-1009,B-133,automotive,accessories spare parts,car interior exterior,4.8,1/12/2015,1371.0
+P-10006,B-2624,pet supplies,grooming,skin coat care,2.1,25/3/2018,90.0
+P-444,B-101,home improvement,lawn gardening,plants,2.1,7/1/2018,72.0
+P-10334,B-2733,home furnishing,bed linen,blankets quilts dohars,5.0,1/1/2020,1095.0
+P-6750,B-1793,jewellery,rings,manirathnum manirathnum black star gemstone silv,4.5,28/3/2016,467.0
+P-911,B-133,automotive,accessories spare parts,car interior exterior,1.7,1/12/2013,910.0
+P-11839,B-3185,home decor festive needs,wall decor clocks,paintings,4.5,31/12/2012,1939.0
+P-5062,B-3078,footwear,women s footwear,casual shoes,4.0,1/12/2013,494.0
+P-6183,B-3078,clothing,women s clothing,western wear,3.0,1/12/2013,830.0
+P-2569,B-645,footwear,kids infant footwear,for boys,3.9,17/6/2014,492.0
+P-6599,B-397,clothing,women s clothing,lingerie sleep swimwear,3.0,7/1/2016,427.0
+P-4858,B-1278,kitchen dining,kitchen tools,choppers peelers,3.9,24/2/2019,189.0
+P-3975,B-1020,jewellery,rings,unknown,4.8,1/1/2016,30758.0
+P-3708,B-2679,clothing,women s clothing,western wear,4.8,30/12/2012,492.0
+P-4642,B-3078,watches,wrist watches,hmt wrist watches,3.9,7/1/2014,523.0
+P-5936,B-1564,automotive,car bike accessories,car interior exterior,4.3,17/6/2016,1847.0
+P-7673,B-3078,clothing,men s clothing,t shirts,2.3,13/12/2013,396.0
+P-8232,B-2373,clothing,women s clothing,western wear,2.0,30/12/2019,294.0
+P-11811,B-3175,jewellery,necklaces chains,necklaces,2.8,1/12/2015,418.0
+P-2914,B-3078,toys school supplies,school supplies,geometry pencil boxes,2.5,1/12/2019,359.0
+P-743,B-133,automotive,accessories spare parts,car interior exterior,1.9,1/12/2013,1598.0
+P-9852,B-2577,jewellery,bangles bracelets armlets,bangles,3.5,30/12/2018,498.0
+P-8918,B-2307,jewellery,rings,unknown,1.7,1/1/2016,23465.0
+P-7089,B-1880,miss wow slim fit women s blue jeans,unknown,unknown,1.5,10/5/2017,489.0
+P-4490,B-3078,clothing,women s clothing,western wear,4.2,7/1/2014,489.0
+P-3777,B-972,home furnishing,living room furnishing,diwan sets,4.4,12/6/2018,973.0
+P-11399,B-3032,pens stationery,office supplies,tucasa office supplies,1.3,2/3/2018,742.0
+P-7086,B-3078,clothing,women s clothing,western wear,3.0,30/12/2013,447.0
+P-7807,B-681,clothing,women s clothing,lingerie sleep swimwear,1.0,7/1/2020,124.0
+P-11901,B-3197,jewellery,necklaces chains,necklaces,2.4,1/12/2018,469.0
+P-5783,B-1517,jewellery,rings,unknown,1.4,1/1/2015,28100.0
+P-9907,B-3078,clothing,women s clothing,western wear,1.1,1/1/2014,542.0
+P-8048,B-3078,clothing,women s clothing,western wear,1.1,6/1/2015,1997.0
+P-3321,B-3078,watches,wrist watches,escort wrist watches,3.9,4/12/2018,1823.0
+P-6027,B-3078,footwear,men s footwear,casual shoes,1.3,29/12/2013,1945.0
+P-4842,B-3078,clothing,women s clothing,western wear,2.4,7/1/2018,444.0
+P-8376,B-3078,footwear,women s footwear,casual shoes,2.8,1/12/2013,1895.0
+P-2622,B-662,computers,network components,routers,1.2,20/3/2018,1977.0
+P-2047,B-3078,footwear,men s footwear,formal shoes,3.7,29/12/2016,1512.0
+P-11982,B-3197,jewellery,necklaces chains,necklaces,2.2,1/12/2013,383.0
+P-10807,B-2863,jewellery,bangles bracelets armlets,bracelets,1.7,12/6/2020,391.0
+P-3052,B-3078,clothing,women s clothing,western wear,3.0,1/1/2015,398.0
+P-146,B-40,jewellery,necklaces chains,necklaces,3.0,1/12/2012,853.0
+P-6366,B-2372,clothing,men s clothing,shirts,4.0,6/12/2018,490.0
+P-1374,B-240,jewellery,rings,unknown,1.7,6/1/2015,871.0
+P-1926,B-410,mobiles accessories,tablet accessories,cases covers,4.7,1/1/2015,1045.0
+P-7204,B-3078,clothing,women s clothing,western wear,3.7,1/12/2012,904.0
+P-9211,B-2370,computers,laptop accessories,batteries,3.7,7/1/2015,2499.0
+P-3702,B-947,jewellery,necklaces chains,necklaces,2.7,1/12/2019,289.0
+P-7839,B-3078,clothing,men s clothing,t shirts,3.8,13/12/2013,891.0
+P-10526,B-3078,footwear,women s footwear,casual shoes,4.8,1/12/2015,497.0
+P-1282,B-211,arial morris women flats,unknown,unknown,4.3,24/4/2016,496.0
+P-5330,B-1420,jewellery,necklaces chains,necklaces,1.0,1/12/2015,489.0
+P-10791,B-3078,toys school supplies,remote control toys,syma remote control toys,1.3,1/1/2015,4197.0
+P-7480,B-2003,clothing,women s clothing,lingerie sleep swimwear,3.5,26/5/2017,249.0
+P-8612,B-3078,kitchen dining,coffee mugs,printland coffee mugs,1.1,1/12/2018,294.0
+P-3995,B-1027,home decor festive needs,table decor handicrafts,showpieces,4.7,4/1/2018,2346.0
+P-7513,B-3078,beauty and personal care,fragrances,deodorants,1.3,1/12/2014,375.0
+P-6595,B-1736,footwear,women s footwear,casual shoes,1.1,2/4/2018,896.0
+P-4743,B-1260,jewellery,necklaces chains,necklaces,3.8,1/12/2019,423.0
+P-11578,B-3095,jewellery,necklaces chains,necklaces,4.2,1/12/2013,241.0
+P-10835,B-2870,computers,laptop accessories,usb gadgets,1.0,29/12/2018,641.0
+P-3582,B-921,clothing,women s clothing,ethnic wear,4.3,25/3/2018,1589.0
+P-300,B-80,jewellery,necklaces chains,necklaces,4.1,1/12/2012,539.0
+P-1412,B-247,computers,network components,routers,4.0,1/12/2012,6500.0
+P-2305,B-546,baby care,infant wear,baby girls clothes,1.8,29/4/2014,796.0
+P-7000,B-3078,clothing,women s clothing,western wear,2.7,1/12/2019,693.0
+P-5851,B-1527,home furnishing,kitchen dining linen,table covers,4.6,24/4/2020,491.0
+P-6333,B-1651,home decor festive needs,table decor handicrafts,showpieces,3.6,4/1/2017,590.0
+P-3327,B-860,jewellery,necklaces chains,necklaces,3.4,1/12/2015,241.0
+P-8412,B-2214,pens stationery,pens,fountain pens,4.0,18/3/2017,1688.0
+P-7067,B-1878,clothing,women s clothing,western wear,3.2,10/5/2017,299.0
+P-3405,B-879,jewellery,necklaces chains,necklaces,1.1,1/12/2018,243.0
+P-3364,B-872,clothing,men s clothing,winter seasonal wear,3.9,20/5/2019,629.0
+P-9283,B-3078,watches,wrist watches,ridas wrist watches,4.4,31/12/2017,298.0
+P-1434,B-253,clothing,women s clothing,ethnic wear,2.5,3/3/2016,1685.0
+P-418,B-3078,beauty and personal care,fragrances,deodorants,3.4,1/12/2019,161.0
+P-9843,B-3078,clothing,women s clothing,western wear,1.8,6/1/2016,799.0
+P-11834,B-3182,vishudh printed women s straight kurta,unknown,unknown,3.6,5/4/2020,498.0
+P-1643,B-2373,clothing,women s clothing,western wear,3.9,30/12/2016,303.0
+P-9561,B-2478,jewellery,bangles bracelets armlets,bracelets,1.5,20/12/2013,493.0
+P-3940,B-1018,baby care,infant wear,baby girls clothes,3.3,22/3/2014,899.0
+P-3627,B-939,footwear,women s footwear,casual shoes,3.8,2/4/2014,492.0
+P-4014,B-1033,mobiles accessories,mobile accessories,mobile chargers,3.4,28/6/2015,246.0
+P-12261,B-3269,mobiles accessories,mobile accessories,chargers,1.9,25/3/2017,263.0
+P-6758,B-1793,jewellery,rings,manirathnum ruby gemstone silver ring sterling s,1.1,28/3/2020,744.0
+P-10956,B-2902,clothing,men s clothing,accessories combo sets,1.8,3/6/2016,311.0
+P-9017,B-2307,jewellery,rings,unknown,4.7,1/1/2019,21911.0
+P-10896,B-2891,eyewear,frames,ted smith full rim wayfarer frame 53 mm,3.2,19/3/2014,1493.0
+P-2425,B-3078,footwear,women s footwear,wedges,3.5,29/12/2016,986.0
+P-4535,B-1198,jewellery,necklaces chains,necklaces,4.4,1/12/2019,222.0
+P-8912,B-2307,jewellery,rings,unknown,1.3,1/1/2017,25901.0
+P-4436,B-1167,jewellery,necklaces chains,necklaces,2.1,1/12/2013,238.0
+P-5688,B-1517,jewellery,rings,unknown,1.7,1/1/2018,28960.0
+P-2097,B-467,clothing,women s clothing,sports gym wear,1.2,1/4/2019,595.0
+P-3709,B-3078,clothing,women s clothing,western wear,2.3,7/1/2017,244.0
+P-11691,B-3138,home decor festive needs,garden leisure,hookah hookah flavors,5.0,26/3/2016,295.0
+P-10406,B-2741,speedwav 216552 manual rear view mirror right,unknown,unknown,2.6,3/3/2018,717.0
+P-2448,B-590,tools hardware,tools,gardening tools,3.4,7/1/2016,462.0
+P-5531,B-1470,footwear,men s footwear,sports shoes,3.9,4/4/2015,1292.0
+P-12513,B-3342,clothing,men s clothing,shirts,2.8,26/6/2014,1047.0
+P-9078,B-2326,jewellery,rings,unknown,2.6,1/1/2019,25699.0
+P-10082,B-3078,toys school supplies,school supplies,geometry pencil boxes,3.8,1/12/2015,189.0
+P-12402,B-3302,tools hardware,tools,gardening tools,4.7,7/1/2017,1796.0
+P-3172,B-818,bags wallets belts,bags,hand bags,2.2,3/6/2020,997.0
+P-7254,B-3078,beauty and personal care,combos and kits,mxofere combos and kits,3.3,12/12/2017,281.0
+P-1793,B-390,tools hardware,tools,gardening tools,5.0,7/1/2013,498.0
+P-4331,B-3078,clothing,women s clothing,western wear,4.3,7/1/2015,293.0
+P-438,B-101,home improvement,lawn gardening,plants,4.6,7/1/2016,70.0
+P-5489,B-1461,beauty and personal care,makeup,face,4.8,15/6/2014,5812.0
+P-9079,B-2326,jewellery,rings,unknown,1.2,1/1/2014,32827.0
+P-4214,B-1086,home decor festive needs,festive decor,holi essentials,2.1,11/3/2018,1142.0
+P-9172,B-2356,footwear,men s footwear,casual shoes,1.0,7/3/2013,3053.0
+P-10221,B-2710,jewellery,bangles bracelets armlets,bangles,1.8,31/12/2018,589.0
+P-5538,B-2355,clothing,women s clothing,lingerie sleep swimwear,1.9,7/1/2014,387.0
+P-11219,B-2372,clothing,women s clothing,western wear,4.8,30/12/2019,473.0
+P-3570,B-920,jewellery,necklaces chains,necklaces,3.8,1/12/2019,191.0
+P-3154,B-812,clothing,men s clothing,shirts,4.1,12/3/2016,893.0
+P-7558,B-2019,clothing,women s clothing,winter seasonal wear,2.3,18/3/2017,792.0
+P-10554,B-2766,kitchen dining,cookware,pots pans,1.5,1/12/2017,694.0
+P-7842,B-2086,clothing,women s clothing,western wear,1.4,25/3/2013,299.0
+P-2458,B-3078,clothing,women s clothing,western wear,3.7,30/12/2016,420.0
+P-515,B-2373,clothing,women s clothing,western wear,3.4,30/12/2012,310.0
+P-10419,B-2741,automotive,accessories spare parts,car interior exterior,1.6,21/4/2018,350.0
+P-11243,B-3078,footwear,men s footwear,casual shoes,3.1,29/12/2012,1598.0
+P-833,B-133,automotive,accessories spare parts,car interior exterior,5.0,1/12/2015,1343.0
+P-4984,B-1315,jewellery,necklaces chains,necklaces,1.5,1/12/2017,395.0
+P-1875,B-405,jewellery,rings,unknown,3.8,1/1/2017,33574.0
+P-4443,B-1169,jewellery,necklaces chains,necklaces,3.1,1/12/2014,345.0
+P-2253,B-3078,footwear,women s footwear,wedges,1.9,29/12/2015,993.0
+P-5,B-3078,footwear,women s footwear,wedges,4.6,29/12/2013,499.0
+P-12043,B-3215,baby care,baby kids gifts,stickers,1.2,1/12/2018,3018.0
+P-101,B-23,clothing,men s clothing,accessories combo sets,4.1,18/4/2017,297.0
+P-2184,B-502,mobiles accessories,mobile accessories,mobile body panels,4.5,20/6/2020,592.0
+P-6138,B-3078,clothing,women s clothing,western wear,2.2,1/12/2016,690.0
+P-3265,B-3078,beauty and personal care,fragrances,deodorants,4.3,1/12/2016,392.0
+P-3313,B-855,home furnishing,bed linen,blankets quilts dohars,1.6,1/1/2018,1191.0
+P-1685,B-3078,beauty and personal care,fragrances,deodorants,4.5,1/12/2013,421.0
+P-4487,B-1185,footwear,women s footwear,casual shoes,3.1,3/3/2019,368.0
+P-850,B-133,automotive,accessories spare parts,car interior exterior,2.7,1/12/2014,916.0
+P-5690,B-1517,jewellery,rings,unknown,1.1,1/1/2013,27961.0
+P-5807,B-2679,clothing,men s clothing,shirts,2.9,6/12/2019,1593.0
+P-12337,B-3283,clothing,men s clothing,ethnic wear,5.0,3/3/2015,596.0
+P-3076,B-793,furniture,living room,sofas sectionals,5.0,31/12/2016,31590.0
+P-2025,B-438,footwear,men s footwear,formal shoes,2.1,5/6/2013,1198.0
+P-623,B-133,automotive,accessories spare parts,car interior exterior,1.1,1/12/2016,1594.0
+P-9938,B-2604,shopoj white paper sky lantern 80 cm x 34 cm p,unknown,unknown,1.5,18/4/2016,546.0
+P-651,B-133,automotive,accessories spare parts,car interior exterior,5.0,1/12/2015,1590.0
+P-6992,B-3078,clothing,kids clothing,girls wear,2.3,20/12/2012,218.0
+P-161,B-41,jewellery,necklaces chains,necklaces,3.1,1/12/2018,996.0
+P-5484,B-1459,footwear,men s footwear,slippers flip flops,1.6,12/5/2017,221.0
+P-10051,B-3078,clothing,women s clothing,western wear,3.7,7/1/2019,596.0
+P-78,B-12,baby care,baby kids gifts,stickers,4.2,1/12/2012,593.0
+P-10709,B-2818,beauty and personal care,hair care,hair care accessories,1.7,21/6/2019,317.0
+P-4363,B-3078,clothing,women s clothing,western wear,3.4,7/1/2013,394.0
+P-5677,B-1517,jewellery,rings,unknown,2.3,1/1/2017,25297.0
+P-261,B-3078,clothing,women s clothing,western wear,1.2,7/1/2013,594.0
+P-11765,B-3164,clothing,women s clothing,ethnic wear,1.4,21/6/2019,940.0
+P-12157,B-3078,clothing,men s clothing,t shirts,3.3,15/12/2017,258.0
+P-6475,B-1695,clothing,kids clothing,girls wear,4.0,10/5/2020,1608.0
+P-12355,B-3285,computers,tablet accessories,cases covers,1.6,17/6/2019,493.0
+P-7288,B-3078,footwear,women s footwear,wedges,3.1,12/12/2015,952.0
+P-3273,B-850,mobiles accessories,tablet accessories,cases covers,4.7,1/1/2013,1491.0
+P-466,B-113,clothing,women s clothing,western wear,2.3,10/5/2017,610.0
+P-9746,B-3078,clothing,kids clothing,girls wear,1.1,6/1/2018,353.0
+P-4421,B-1160,home furnishing,bed linen,blankets quilts dohars,1.1,12/12/2017,1089.0
+P-8850,B-2330,clothing,women s clothing,lingerie sleep swimwear,1.2,7/1/2015,143.0
+P-8390,B-2204,jewellery,earrings,unknown,1.9,12/12/2019,396.0
+P-10774,B-2845,clothing,men s clothing,accessories combo sets,4.1,21/6/2016,229.0
+P-3453,B-897,kitchen dining,bar glassware,bar glasses,4.3,16/4/2015,549.0
+P-9393,B-3078,kitchen dining,coffee mugs,rockmantra coffee mugs,4.8,1/12/2013,190.0
