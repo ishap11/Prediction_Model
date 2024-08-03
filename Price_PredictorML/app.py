@@ -1,43 +1,70 @@
+import pickle
 from flask import Flask, request, render_template
 import pandas as pd
 import numpy as np
-import pickle
+from sklearn.linear_model import LinearRegression
 
 app = Flask(__name__)
 
-# Load the model from the new pickle file
-with open(r'C:\Users\owner\Desktop\render\price_prediction_model .pkl', 'rb') as file:
+# Load the model
+with open(r'C:\Users\owner\Desktop\Prediction_Model\Price_PredictorML\price_prediction_model (2).pkl', 'rb') as file:
     model = pickle.load(file)
 
-# Load the data (assuming the data is available in the same directory)
-train = pd.read_csv(r'C:\Users\owner\Desktop\render\train_dataset.csv')
-train['Date'] = pd.to_datetime(train['Date'], format="%d/%m/%Y")
+# Load the dataset
+train = pd.read_csv(r'C:\Users\owner\Desktop\Prediction_Model\Price_PredictorML\test_data - Flipkart_Mobiles.csv')
+train['Date'] = pd.to_datetime(train['Date'], format="%d %b %Y")
 train = train.sort_values(by='Date').reset_index(drop=True)
 train = train.set_index("Date")
+train['Product'] = train['Brand'] + ' ' + train['Model']
 
-@app.route('/', methods=['GET', 'POST'])
-def predict():
-    prediction = None
-    if request.method == 'POST':
-        product_id = request.form['product_id']
-        prediction = predict_product_price(product_id)
-    return render_template('index.html', prediction=prediction)
-
-def predict_product_price(product_id, alpha=0.9, future_days=2):
-    # Filter data for the specified product
-    product_data = train[train['Product'] == product_id].sort_values('Date')
+def train_model(product):
+    product_data = train[train['Product'] == product].sort_values('Date')
 
     if product_data.empty:
-        return "No data found for this product."
+        return None, None
 
-    # Create lag features for the product data
-    product_data['Selling_Price_Lag1'] = product_data['Selling_Price'].shift(1)
-    product_data['Selling_Price_Lag2'] = product_data['Selling_Price'].shift(2)
+    # Create lag features
+    product_data['Selling_Price_Lag1'] = product_data['Selling Price'].shift(1)
+    product_data['Selling_Price_Lag2'] = product_data['Selling Price'].shift(2)
     product_data = product_data.dropna()
 
+    if product_data.shape[0] < 3:
+        return None, None
+
     X = product_data[['Selling_Price_Lag1', 'Selling_Price_Lag2']]
-    predictions = model.predict(X)
-    return predictions[-1]
+    y = product_data['Selling Price']
+
+    model = LinearRegression()
+    model.fit(X, y)
+
+    return model, product_data
+
+def forecast_next_days(model, product_data, days=2):
+    last_data = product_data[['Selling_Price_Lag1', 'Selling_Price_Lag2']].iloc[-1].values
+    forecasts = []
+
+    for _ in range(days):
+        next_price = model.predict([last_data])[0]
+        forecasts.append(next_price)
+        last_data = np.array([next_price, last_data[0]])
+
+    return forecasts
+
+@app.route('/')
+def index():
+    return render_template('index.html')
+
+@app.route('/predict', methods=['POST'])
+def predict():
+    product = request.form['product']
+    model, product_data = train_model(product)
+    
+    if model and product_data is not None:
+        future_prices = forecast_next_days(model, product_data, days=2)
+        forecasts = [(i + 1, price) for i, price in enumerate(future_prices)]
+        return render_template('index.html', forecasts=forecasts)
+    else:
+        return render_template('index.html', forecasts=None, error="Product data not found or insufficient data to make predictions.")
 
 if __name__ == '__main__':
     app.run(debug=True)

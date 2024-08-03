@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Price Prediction Model</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Price Prediction Model</h1>
+        <form action="/predict" method="post">
+            <label for="product">Product Name:</label>
+            <input type="text" id="product" name="product" required>
+            <button type="submit">Predict</button>
+        </form>
+        {% if forecasts %}
+            <h2>Forecasted Prices</h2>
+            <ul>
+                {% for day, price in forecasts %}
+                    <li>Day {{ day }}: {{ price }}</li>
+                {% endfor %}
+            </ul>
+        {% endif %}
+        {% if error %}
+            <p>{{ error }}</p>
+        {% endif %}
+    </div>
+</body>
+</html>
